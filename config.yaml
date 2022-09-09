@@ -1,0 +1,25 @@
+---
+id: rubykaigi-2022
+base_name: slide
+tags:
+  - ruby
+  - quic
+  - rubykaigi
+presentation_date: 2022-09-09
+presentation_start_time: 
+presentation_end_time: 
+version: 1.0.0
+licenses: ['MIT']
+slideshare_id: 
+speaker_deck_id: 
+ustream_id: 
+vimeo_id: 
+youtube_id: 
+author:
+  markup_language: :rd
+  name: unasuke
+  email: yusuke1994525@gmail.com
+  rubygems_user: unasuke
+  slideshare_user: 
+  speaker_deck_user: 
+source_code_uri: "https://github.com/unasuke/rubykaigi-2022"
